@@ -1,0 +1,13 @@
+{
+    "name": "web-app-part-2",
+    "private": true,
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "lodash": "^4.17.21",
+        "mustache": "^4.2.0"
+    }
+}
